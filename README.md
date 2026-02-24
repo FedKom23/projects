@@ -1,2 +1,2 @@
 # projects
-my projects in courses and university
+my projects and courses in university
